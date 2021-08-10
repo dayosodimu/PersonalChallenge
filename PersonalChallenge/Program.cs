@@ -7,6 +7,7 @@ namespace PersonalChallenge
         static void Main(string[] args)
         {
             // store and retrieve data using literal and variable values 
+            Console.WriteLine("Personal Challenge");
 
         }
     }
