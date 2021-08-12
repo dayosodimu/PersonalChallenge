@@ -11,8 +11,10 @@ namespace PersonalChallenge
 
             // Setting and getting values from variables 
             string firstName;
-            firstName = "Sam";
-            Console.WriteLine(firstName);
+            string lastName;
+            firstName = "Dayo";
+            lastName = "sodimu";
+            Console.WriteLine(firstName + lastName);
         }
     }
 }
