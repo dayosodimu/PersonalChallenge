@@ -12,9 +12,15 @@ namespace PersonalChallenge
             // Setting and getting values from variables 
             string firstName;
             string lastName;
+            string message;
             firstName = "Dayo";
             lastName = "sodimu";
-            Console.WriteLine(firstName + lastName);
+            message = "Hey";
+            Console.WriteLine($" {message}  { firstName} {lastName} you got dis, kip it up!");
+
+            // Character excape sequences
+
+
         }
     }
 }
